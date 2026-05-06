@@ -21,7 +21,7 @@ This project analyzes sales data using Excel to generate business insights throu
 - March shows strong sales activity
 
 ## Dashboard Preview
-(Insert screenshot here)
+(On screenshot)
 
 ## Skills Demonstrated
 - Data cleaning
